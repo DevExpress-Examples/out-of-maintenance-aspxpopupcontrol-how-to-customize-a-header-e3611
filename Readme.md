@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # ASPxPopupControl - How to customize a header
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3611)**
+**[[Run Online]](https://codecentral.devexpress.com/e3611/)**
 <!-- run online end -->
 
 
